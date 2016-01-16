@@ -1,11 +1,17 @@
 body
 {
  background-color: black;   
-    color: cornsilk
-}
-.mycontent
-{   
+    color:floralwhite;
     margin-top: 200px;
     margin-left: 100px;
     margin-right: 100px;
+}
+
+#footer
+{
+    color: darkgrey;
+  position: fixed;     
+       text-align: center;    
+       bottom: 0px; 
+       width: 100%;   
 }
